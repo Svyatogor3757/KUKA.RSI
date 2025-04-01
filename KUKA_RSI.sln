@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KUKA_RSI", "KUKA_RSI.csproj", "{62FB5BE2-A5FA-48F4-B7C4-F69501C05E6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test1", "Tests\Test1\Test1.csproj", "{491A50A6-5AA2-4349-A960-7EE2A5C48BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FB5BE2-A5FA-48F4-B7C4-F69501C05E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FB5BE2-A5FA-48F4-B7C4-F69501C05E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FB5BE2-A5FA-48F4-B7C4-F69501C05E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FB5BE2-A5FA-48F4-B7C4-F69501C05E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491A50A6-5AA2-4349-A960-7EE2A5C48BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491A50A6-5AA2-4349-A960-7EE2A5C48BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491A50A6-5AA2-4349-A960-7EE2A5C48BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491A50A6-5AA2-4349-A960-7EE2A5C48BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D102C2A3-B19B-416A-9553-0BC0ABA90E61}
+	EndGlobalSection
+EndGlobal
